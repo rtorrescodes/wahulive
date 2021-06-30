@@ -1,0 +1,15 @@
+titulo_evento="Gran evento"
+inicio="27-04-2022"
+fin="30-04-2022"
+fecha="Del 27 al 30 de Abril 2022"
+venuee="Edición Online"
+
+
+Cada plática
+títuloplática="Mejores prácticas en el desarrollo web"
+ponente1="Georgína Orozco"
+p1puesto="Gerente de Relaciones exteriores - Rimza"
+ponente2="Rigoberto Plaza"
+p2puesto="Cordinador de Proyectos - Latimex Colombia"
+
+Más de un expositor por plática - Votar una ventana con bio de cada uno si le dan click, con sus redes sociales
